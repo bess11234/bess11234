@@ -77,6 +77,13 @@ Feel free to check out my repositories and follow my progress!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bess11234&layout=donut-vertical)
 
 <!--START_SECTION:waka-->
+
+```txt
+Markdown   30 mins         ██████████████████████▓░░   90.66 %
+YAML       2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+```
+
 <!--END_SECTION:waka-->
 
 </div>
