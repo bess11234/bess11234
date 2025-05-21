@@ -79,8 +79,7 @@ Feel free to check out my repositories and follow my progress!
 <!--START_SECTION:waka-->
 
 ```txt
-Python   18 mins         ████████████████████████▓   98.23 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Other   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
