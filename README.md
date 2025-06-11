@@ -79,7 +79,11 @@ Feel free to check out my repositories and follow my progress!
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python             1 hr 17 mins    ██████████▓░░░░░░░░░░░░░░   43.12 %
+YAML               1 hr            ████████▒░░░░░░░░░░░░░░░░   33.74 %
+JavaScript         16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+Other              10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+reStructuredText   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
 ```
 
 <!--END_SECTION:waka-->
