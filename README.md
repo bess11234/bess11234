@@ -79,11 +79,11 @@ Feel free to check out my repositories and follow my progress!
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 54 mins   ███████████████████████▓░   94.22 %
-Markdown     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   3 hrs 8 mins    ██████████████████████▓░░   90.30 %
+Markdown     16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
