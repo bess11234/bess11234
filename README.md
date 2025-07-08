@@ -79,11 +79,11 @@ Feel free to check out my repositories and follow my progress!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    15 hrs 30 mins  █████████████▓░░░░░░░░░░░   54.21 %
-YAML          6 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
-Markdown      2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
-Other         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-Bash          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript    15 hrs 30 mins  █████████████▒░░░░░░░░░░░   53.38 %
+YAML          6 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.23 %
+Markdown      3 hrs 7 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Other         2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Bash          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
 ```
 
 <!--END_SECTION:waka-->
