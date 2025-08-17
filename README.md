@@ -79,11 +79,11 @@ Feel free to check out my repositories and follow my progress!
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.39 %
-Python       7 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.25 %
-HTML         1 hr 42 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Markdown     1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-JavaScript   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Python       8 hrs 1 min     ██████████░░░░░░░░░░░░░░░   39.41 %
+TypeScript   6 hrs 2 mins    ███████▒░░░░░░░░░░░░░░░░░   29.65 %
+HTML         3 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+Markdown     1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
