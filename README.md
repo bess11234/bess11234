@@ -71,10 +71,12 @@ Feel free to check out my repositories and follow my progress!
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
 
 
-## 📈 Github Stat
+## 📈 Repo most used languages
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bess11234&layout=donut-vertical)
+
+## 📊 Yearly development breakdown
 
 <!--START_SECTION:waka-->
 
