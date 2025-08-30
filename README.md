@@ -89,3 +89,5 @@ Markdown     15 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </div>
+
+<figure><embed src="https://wakatime.com/share/@d48f5938-09d2-4fa2-842f-13e9f364290b/e9fa2184-f539-4f15-b844-62108bf3409b.svg"></embed></figure>
