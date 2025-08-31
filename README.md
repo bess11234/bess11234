@@ -76,6 +76,8 @@ Feel free to check out my repositories and follow my progress!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bess11234&layout=donut-vertical)
 
+</div>
+
 ## 📊 Yearly development breakdown
 
 <!--START_SECTION:waka-->
@@ -96,5 +98,3 @@ JSON               2 hrs 24 mins   ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 
 <!--END_SECTION:waka-->
-
-</div>
