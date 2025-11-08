@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm kasomsri.</h2>
+<h2 align="center">👋 Hello! I'm Kanisorn Somsriagsornsang</h2>
 
 I’m currently a student at King Mongkut’s Institute of Technology Ladkrabang, majoring in Information Technology with a specialization in Software Engineering.
 
